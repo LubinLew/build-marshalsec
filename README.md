@@ -1,5 +1,7 @@
 # build marshalsec on CentOS7
 
+build https://github.com/mbechler/marshalsec.git
+
 ## install JDK
 
 [Download Java SE Development Kit 15](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
